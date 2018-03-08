@@ -1,6 +1,6 @@
-##HTML/CSS/JavaScript Boilerplate with SASS, GULP, Babel, AutoPrefixer, Browsersync.
+<h1>HTML/CSS/JavaScript Boilerplate with SASS, GULP, Babel, AutoPrefixer, Browsersync.</h1>
 
-#Steps:<br />
+<h2>Steps:</h2><br />
 1 - Git clone this repo into your project folder.<br />
 
 2 - Open your terminal, navigate to the project folder and type: npm install<br />
