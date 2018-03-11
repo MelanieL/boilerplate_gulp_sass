@@ -1,3 +1,12 @@
-const ohHey = "Hello World";
+const app = {};
 
-console.log(ohHey);
+app.events = function () {
+};
+
+app.init = function () {
+    app.events();
+};
+
+$(function () {
+    app.init();
+});

@@ -1,6 +1,6 @@
 <h1>HTML/CSS/JavaScript Boilerplate with SASS, GULP, Babel, AutoPrefixer, Browsersync.</h1>
 
-<h2>Steps:</h2>
+Steps:
 
 1 - Git clone this repo into your project folder.
 
